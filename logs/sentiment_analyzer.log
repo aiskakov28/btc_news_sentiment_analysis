@@ -1,0 +1,38 @@
+2024-11-25 01:21:02,639 - INFO - Starting analysis for 2024-11-25
+2024-11-25 01:21:02,641 - INFO - Loaded 9 articles from /Users/abylai/PycharmProjects/btc_pred/full_rep/data/news/crypto_news_2024-11-25.csv
+2024-11-25 01:21:02,641 - INFO - Processing article 1/9
+2024-11-25 01:21:02,654 - INFO - Processing article 2/9
+2024-11-25 01:21:02,655 - INFO - Processing article 3/9
+2024-11-25 01:21:02,656 - INFO - Processing article 4/9
+2024-11-25 01:21:02,656 - INFO - Processing article 5/9
+2024-11-25 01:21:02,657 - INFO - Processing article 6/9
+2024-11-25 01:21:02,658 - INFO - Processing article 7/9
+2024-11-25 01:21:02,658 - INFO - Processing article 8/9
+2024-11-25 01:21:02,659 - INFO - Processing article 9/9
+2024-11-25 01:21:02,661 - INFO - Results saved to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/sentiment/sentiment_analysis_2024-11-25.csv
+2024-11-25 01:21:02,662 - INFO - 
+Sentiment Analysis Summary for 2024-11-25:
+Total articles analyzed: 9
+Positive articles: 2 (22.2%)
+Neutral articles: 7 (77.8%)
+Negative articles: 0 (0.0%)
+
+2024-11-25 01:22:15,716 - INFO - Starting analysis for 2024-11-25
+2024-11-25 01:22:15,717 - INFO - Loaded 9 articles from /Users/abylai/PycharmProjects/btc_pred/full_rep/data/news/crypto_news_2024-11-25.csv
+2024-11-25 01:22:15,717 - INFO - Processing article 1/9
+2024-11-25 01:22:15,732 - INFO - Processing article 2/9
+2024-11-25 01:22:15,733 - INFO - Processing article 3/9
+2024-11-25 01:22:15,733 - INFO - Processing article 4/9
+2024-11-25 01:22:15,734 - INFO - Processing article 5/9
+2024-11-25 01:22:15,735 - INFO - Processing article 6/9
+2024-11-25 01:22:15,735 - INFO - Processing article 7/9
+2024-11-25 01:22:15,736 - INFO - Processing article 8/9
+2024-11-25 01:22:15,737 - INFO - Processing article 9/9
+2024-11-25 01:22:15,738 - INFO - Results saved to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/sentiment/sentiment_analysis_2024-11-25.csv
+2024-11-25 01:22:15,739 - INFO - 
+Sentiment Analysis Summary for 2024-11-25:
+Total articles analyzed: 9
+Positive articles: 2 (22.2%)
+Neutral articles: 7 (77.8%)
+Negative articles: 0 (0.0%)
+

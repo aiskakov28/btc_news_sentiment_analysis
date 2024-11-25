@@ -1,0 +1,589 @@
+2024-11-21 20:43:59,312 - INFO - Starting Bitcoin data collection (1-hour intervals)
+2024-11-21 20:43:59,573 - INFO - Data successfully written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-21.csv
+2024-11-21 20:45:00,131 - INFO - Data collection stopped by user
+2024-11-22 15:36:01,224 - INFO - Starting Bitcoin data collection
+2024-11-22 15:36:01,225 - INFO - Bitcoin data will be saved to: /Users/abylai/PycharmProjects/btc_pred/full_rep/data
+2024-11-22 15:36:01,225 - INFO - Using timezone: EST
+2024-11-22 15:36:01,529 - INFO - Data successfully written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:36:01,530 - INFO - Data collected at 2024-11-22 15:36:01 EST
+2024-11-22 15:51:01,073 - INFO - Data collection stopped by user
+2024-11-22 15:51:02,453 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:02,454 - INFO - Data collected for time slot: 2024-11-22 00:00:00 EST
+2024-11-22 15:51:04,727 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:04,728 - INFO - Data collected for time slot: 2024-11-22 00:30:00 EST
+2024-11-22 15:51:06,902 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:06,903 - INFO - Data collected for time slot: 2024-11-22 01:00:00 EST
+2024-11-22 15:51:09,150 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:09,150 - INFO - Data collected for time slot: 2024-11-22 01:30:00 EST
+2024-11-22 15:51:11,418 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:11,418 - INFO - Data collected for time slot: 2024-11-22 02:00:00 EST
+2024-11-22 15:51:13,695 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:13,696 - INFO - Data collected for time slot: 2024-11-22 02:30:00 EST
+2024-11-22 15:51:15,878 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:15,879 - INFO - Data collected for time slot: 2024-11-22 03:00:00 EST
+2024-11-22 15:51:18,070 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:18,071 - INFO - Data collected for time slot: 2024-11-22 03:30:00 EST
+2024-11-22 15:51:20,341 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:20,342 - INFO - Data collected for time slot: 2024-11-22 04:00:00 EST
+2024-11-22 15:51:22,517 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:22,518 - INFO - Data collected for time slot: 2024-11-22 04:30:00 EST
+2024-11-22 15:51:24,791 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:24,792 - INFO - Data collected for time slot: 2024-11-22 05:00:00 EST
+2024-11-22 15:51:27,064 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:27,065 - INFO - Data collected for time slot: 2024-11-22 05:30:00 EST
+2024-11-22 15:51:29,329 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:29,330 - INFO - Data collected for time slot: 2024-11-22 06:00:00 EST
+2024-11-22 15:51:31,595 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:31,596 - INFO - Data collected for time slot: 2024-11-22 06:30:00 EST
+2024-11-22 15:51:33,776 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:33,776 - INFO - Data collected for time slot: 2024-11-22 07:00:00 EST
+2024-11-22 15:51:36,063 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:36,063 - INFO - Data collected for time slot: 2024-11-22 07:30:00 EST
+2024-11-22 15:51:38,320 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:38,321 - INFO - Data collected for time slot: 2024-11-22 08:00:00 EST
+2024-11-22 15:51:40,608 - INFO - Data written to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/bitcoin_data_2024-11-22.csv
+2024-11-22 15:51:40,609 - INFO - Data collected for time slot: 2024-11-22 08:30:00 EST
+2024-11-22 15:52:34,582 - INFO - Collecting data for time slot: 2024-11-22 00:00:00
+2024-11-22 15:52:35,870 - INFO - Collecting data for time slot: 2024-11-22 00:30:00
+2024-11-22 15:52:37,140 - INFO - Collecting data for time slot: 2024-11-22 01:00:00
+2024-11-22 15:52:38,397 - INFO - Collecting data for time slot: 2024-11-22 01:30:00
+2024-11-22 15:52:39,665 - INFO - Collecting data for time slot: 2024-11-22 02:00:00
+2024-11-22 15:52:40,950 - INFO - Collecting data for time slot: 2024-11-22 02:30:00
+2024-11-22 15:52:42,229 - INFO - Collecting data for time slot: 2024-11-22 03:00:00
+2024-11-22 15:52:43,399 - INFO - Collecting data for time slot: 2024-11-22 03:30:00
+2024-11-22 15:52:44,659 - INFO - Collecting data for time slot: 2024-11-22 04:00:00
+2024-11-22 15:52:45,930 - INFO - Collecting data for time slot: 2024-11-22 04:30:00
+2024-11-22 15:52:47,206 - INFO - Collecting data for time slot: 2024-11-22 05:00:00
+2024-11-22 15:52:48,474 - INFO - Collecting data for time slot: 2024-11-22 05:30:00
+2024-11-22 15:52:49,744 - INFO - Collecting data for time slot: 2024-11-22 06:00:00
+2024-11-22 15:52:51,013 - INFO - Collecting data for time slot: 2024-11-22 06:30:00
+2024-11-22 15:52:52,303 - INFO - Collecting data for time slot: 2024-11-22 07:00:00
+2024-11-22 15:52:53,576 - INFO - Collecting data for time slot: 2024-11-22 07:30:00
+2024-11-22 15:53:49,635 - INFO - Fetching data for 2024-11-22 00:00:00-05:00
+2024-11-22 15:53:49,895 - INFO - Saved data for 2024-11-22 00:00:00-05:00
+2024-11-22 15:53:50,901 - INFO - Fetching data for 2024-11-22 00:30:00-05:00
+2024-11-22 15:53:51,170 - INFO - Saved data for 2024-11-22 00:30:00-05:00
+2024-11-22 15:53:52,175 - INFO - Fetching data for 2024-11-22 01:00:00-05:00
+2024-11-22 15:53:52,436 - INFO - Saved data for 2024-11-22 01:00:00-05:00
+2024-11-22 15:53:53,437 - INFO - Fetching data for 2024-11-22 01:30:00-05:00
+2024-11-22 15:53:53,703 - INFO - Saved data for 2024-11-22 01:30:00-05:00
+2024-11-22 15:53:54,709 - INFO - Fetching data for 2024-11-22 02:00:00-05:00
+2024-11-22 15:53:54,972 - INFO - Saved data for 2024-11-22 02:00:00-05:00
+2024-11-22 15:53:55,974 - INFO - Fetching data for 2024-11-22 02:30:00-05:00
+2024-11-22 15:53:56,265 - INFO - Saved data for 2024-11-22 02:30:00-05:00
+2024-11-22 15:53:57,266 - INFO - Fetching data for 2024-11-22 03:00:00-05:00
+2024-11-22 15:53:57,538 - INFO - Saved data for 2024-11-22 03:00:00-05:00
+2024-11-22 15:53:58,543 - INFO - Fetching data for 2024-11-22 03:30:00-05:00
+2024-11-22 15:53:58,800 - INFO - Saved data for 2024-11-22 03:30:00-05:00
+2024-11-22 15:53:59,807 - INFO - Fetching data for 2024-11-22 04:00:00-05:00
+2024-11-22 15:54:00,059 - INFO - Saved data for 2024-11-22 04:00:00-05:00
+2024-11-22 15:54:01,064 - INFO - Fetching data for 2024-11-22 04:30:00-05:00
+2024-11-22 15:54:01,315 - INFO - Saved data for 2024-11-22 04:30:00-05:00
+2024-11-22 15:54:02,320 - INFO - Fetching data for 2024-11-22 05:00:00-05:00
+2024-11-22 15:54:02,593 - INFO - Saved data for 2024-11-22 05:00:00-05:00
+2024-11-22 15:54:03,599 - INFO - Fetching data for 2024-11-22 05:30:00-05:00
+2024-11-22 15:54:03,860 - INFO - Saved data for 2024-11-22 05:30:00-05:00
+2024-11-22 15:54:04,861 - INFO - Fetching data for 2024-11-22 06:00:00-05:00
+2024-11-22 15:54:05,103 - INFO - Saved data for 2024-11-22 06:00:00-05:00
+2024-11-22 15:54:06,109 - INFO - Fetching data for 2024-11-22 06:30:00-05:00
+2024-11-22 15:54:06,381 - INFO - Saved data for 2024-11-22 06:30:00-05:00
+2024-11-22 15:54:07,383 - INFO - Fetching data for 2024-11-22 07:00:00-05:00
+2024-11-22 15:54:07,649 - INFO - Saved data for 2024-11-22 07:00:00-05:00
+2024-11-22 15:54:08,654 - INFO - Fetching data for 2024-11-22 07:30:00-05:00
+2024-11-22 15:54:08,921 - INFO - Saved data for 2024-11-22 07:30:00-05:00
+2024-11-22 15:54:09,926 - INFO - Fetching data for 2024-11-22 08:00:00-05:00
+2024-11-22 15:54:10,215 - INFO - Saved data for 2024-11-22 08:00:00-05:00
+2024-11-22 15:54:11,221 - INFO - Fetching data for 2024-11-22 08:30:00-05:00
+2024-11-22 15:54:11,473 - INFO - Saved data for 2024-11-22 08:30:00-05:00
+2024-11-22 15:54:12,479 - INFO - Fetching data for 2024-11-22 09:00:00-05:00
+2024-11-22 15:54:12,758 - INFO - Saved data for 2024-11-22 09:00:00-05:00
+2024-11-22 15:54:13,763 - INFO - Fetching data for 2024-11-22 09:30:00-05:00
+2024-11-22 15:54:14,013 - INFO - Saved data for 2024-11-22 09:30:00-05:00
+2024-11-22 15:54:15,018 - INFO - Fetching data for 2024-11-22 10:00:00-05:00
+2024-11-22 15:54:15,282 - INFO - Saved data for 2024-11-22 10:00:00-05:00
+2024-11-22 15:54:16,287 - INFO - Fetching data for 2024-11-22 10:30:00-05:00
+2024-11-22 15:54:16,552 - INFO - Saved data for 2024-11-22 10:30:00-05:00
+2024-11-22 15:54:17,558 - INFO - Fetching data for 2024-11-22 11:00:00-05:00
+2024-11-22 15:54:17,808 - INFO - Saved data for 2024-11-22 11:00:00-05:00
+2024-11-22 15:54:18,814 - INFO - Fetching data for 2024-11-22 11:30:00-05:00
+2024-11-22 15:54:19,083 - INFO - Saved data for 2024-11-22 11:30:00-05:00
+2024-11-22 15:54:20,086 - INFO - Fetching data for 2024-11-22 12:00:00-05:00
+2024-11-22 15:54:20,343 - INFO - Saved data for 2024-11-22 12:00:00-05:00
+2024-11-22 15:54:21,348 - INFO - Fetching data for 2024-11-22 12:30:00-05:00
+2024-11-22 15:54:21,603 - INFO - Saved data for 2024-11-22 12:30:00-05:00
+2024-11-22 15:54:22,606 - INFO - Fetching data for 2024-11-22 13:00:00-05:00
+2024-11-22 15:54:22,866 - INFO - Saved data for 2024-11-22 13:00:00-05:00
+2024-11-22 15:54:23,872 - INFO - Fetching data for 2024-11-22 13:30:00-05:00
+2024-11-22 15:54:24,057 - INFO - Saved data for 2024-11-22 13:30:00-05:00
+2024-11-22 15:54:25,060 - INFO - Fetching data for 2024-11-22 14:00:00-05:00
+2024-11-22 15:54:25,318 - INFO - Saved data for 2024-11-22 14:00:00-05:00
+2024-11-22 15:54:26,322 - INFO - Fetching data for 2024-11-22 14:30:00-05:00
+2024-11-22 15:54:26,586 - INFO - Saved data for 2024-11-22 14:30:00-05:00
+2024-11-22 15:54:27,589 - INFO - Fetching data for 2024-11-22 15:00:00-05:00
+2024-11-22 15:54:27,859 - INFO - Saved data for 2024-11-22 15:00:00-05:00
+2024-11-22 15:54:28,863 - INFO - Fetching data for 2024-11-22 15:30:00-05:00
+2024-11-22 15:54:29,109 - INFO - Saved data for 2024-11-22 15:30:00-05:00
+2024-11-22 15:54:30,115 - INFO - Data collection completed
+2024-11-22 15:56:49,799 - INFO - Fetching historical data for 2024-11-22 00:00:00-05:00
+2024-11-22 15:56:50,275 - INFO - Saved historical data for 2024-11-22 00:00:00-05:00
+2024-11-22 15:56:50,777 - INFO - Fetching historical data for 2024-11-22 00:30:00-05:00
+2024-11-22 15:56:51,258 - INFO - Saved historical data for 2024-11-22 00:30:00-05:00
+2024-11-22 15:56:51,760 - INFO - Fetching historical data for 2024-11-22 01:00:00-05:00
+2024-11-22 15:56:54,335 - INFO - Saved historical data for 2024-11-22 01:00:00-05:00
+2024-11-22 15:56:54,840 - INFO - Fetching historical data for 2024-11-22 01:30:00-05:00
+2024-11-22 15:56:57,212 - INFO - Saved historical data for 2024-11-22 01:30:00-05:00
+2024-11-22 15:56:57,717 - INFO - Fetching historical data for 2024-11-22 02:00:00-05:00
+2024-11-22 15:56:58,588 - INFO - Saved historical data for 2024-11-22 02:00:00-05:00
+2024-11-22 15:56:59,089 - INFO - Fetching historical data for 2024-11-22 02:30:00-05:00
+2024-11-22 15:56:59,621 - INFO - Saved historical data for 2024-11-22 02:30:00-05:00
+2024-11-22 15:57:00,126 - INFO - Fetching historical data for 2024-11-22 03:00:00-05:00
+2024-11-22 15:57:00,588 - INFO - Saved historical data for 2024-11-22 03:00:00-05:00
+2024-11-22 15:57:01,090 - INFO - Fetching historical data for 2024-11-22 03:30:00-05:00
+2024-11-22 15:57:01,550 - INFO - Saved historical data for 2024-11-22 03:30:00-05:00
+2024-11-22 15:57:02,055 - INFO - Fetching historical data for 2024-11-22 04:00:00-05:00
+2024-11-22 15:57:02,695 - INFO - Saved historical data for 2024-11-22 04:00:00-05:00
+2024-11-22 15:57:03,200 - INFO - Fetching historical data for 2024-11-22 04:30:00-05:00
+2024-11-22 15:57:03,994 - INFO - Saved historical data for 2024-11-22 04:30:00-05:00
+2024-11-22 15:57:04,498 - INFO - Fetching historical data for 2024-11-22 05:00:00-05:00
+2024-11-22 15:57:07,329 - INFO - Saved historical data for 2024-11-22 05:00:00-05:00
+2024-11-22 15:57:07,831 - INFO - Fetching historical data for 2024-11-22 05:30:00-05:00
+2024-11-22 15:57:08,660 - INFO - Saved historical data for 2024-11-22 05:30:00-05:00
+2024-11-22 15:57:09,166 - INFO - Fetching historical data for 2024-11-22 06:00:00-05:00
+2024-11-22 15:57:09,623 - INFO - Saved historical data for 2024-11-22 06:00:00-05:00
+2024-11-22 15:57:10,128 - INFO - Fetching historical data for 2024-11-22 06:30:00-05:00
+2024-11-22 15:57:11,270 - INFO - Saved historical data for 2024-11-22 06:30:00-05:00
+2024-11-22 15:57:11,775 - INFO - Fetching historical data for 2024-11-22 07:00:00-05:00
+2024-11-22 15:57:16,953 - INFO - Fetching historical data for 2024-11-22 00:00:00-05:00
+2024-11-22 15:57:18,139 - INFO - Saved historical data for 2024-11-22 00:00:00-05:00
+2024-11-22 15:57:18,644 - INFO - Fetching historical data for 2024-11-22 00:30:00-05:00
+2024-11-22 15:57:19,483 - INFO - Saved historical data for 2024-11-22 00:30:00-05:00
+2024-11-22 15:57:19,986 - INFO - Fetching historical data for 2024-11-22 01:00:00-05:00
+2024-11-22 15:57:20,512 - INFO - Saved historical data for 2024-11-22 01:00:00-05:00
+2024-11-22 15:57:21,015 - INFO - Fetching historical data for 2024-11-22 01:30:00-05:00
+2024-11-22 15:57:21,520 - INFO - Saved historical data for 2024-11-22 01:30:00-05:00
+2024-11-22 15:57:22,024 - INFO - Fetching historical data for 2024-11-22 02:00:00-05:00
+2024-11-22 15:57:23,073 - INFO - Saved historical data for 2024-11-22 02:00:00-05:00
+2024-11-22 15:57:23,577 - INFO - Fetching historical data for 2024-11-22 02:30:00-05:00
+2024-11-22 15:57:24,028 - INFO - Saved historical data for 2024-11-22 02:30:00-05:00
+2024-11-22 15:57:24,532 - INFO - Fetching historical data for 2024-11-22 03:00:00-05:00
+2024-11-22 15:57:27,298 - INFO - Saved historical data for 2024-11-22 03:00:00-05:00
+2024-11-22 15:57:27,801 - INFO - Fetching historical data for 2024-11-22 03:30:00-05:00
+2024-11-22 15:57:28,266 - INFO - Saved historical data for 2024-11-22 03:30:00-05:00
+2024-11-22 15:57:28,769 - INFO - Fetching historical data for 2024-11-22 04:00:00-05:00
+2024-11-22 15:57:29,224 - INFO - Saved historical data for 2024-11-22 04:00:00-05:00
+2024-11-22 15:57:29,728 - INFO - Fetching historical data for 2024-11-22 04:30:00-05:00
+2024-11-22 15:57:35,490 - INFO - Saved historical data for 2024-11-22 04:30:00-05:00
+2024-11-22 15:57:35,995 - INFO - Fetching historical data for 2024-11-22 05:00:00-05:00
+2024-11-22 15:57:37,742 - INFO - Saved historical data for 2024-11-22 05:00:00-05:00
+2024-11-22 15:57:38,244 - INFO - Fetching historical data for 2024-11-22 05:30:00-05:00
+2024-11-22 15:57:38,699 - INFO - Saved historical data for 2024-11-22 05:30:00-05:00
+2024-11-22 15:57:39,204 - INFO - Fetching historical data for 2024-11-22 06:00:00-05:00
+2024-11-22 15:57:40,200 - INFO - Saved historical data for 2024-11-22 06:00:00-05:00
+2024-11-22 15:57:40,702 - INFO - Fetching historical data for 2024-11-22 06:30:00-05:00
+2024-11-22 15:57:41,169 - INFO - Saved historical data for 2024-11-22 06:30:00-05:00
+2024-11-22 15:57:41,671 - INFO - Fetching historical data for 2024-11-22 07:00:00-05:00
+2024-11-22 15:57:42,320 - INFO - Saved historical data for 2024-11-22 07:00:00-05:00
+2024-11-22 15:57:42,825 - INFO - Fetching historical data for 2024-11-22 07:30:00-05:00
+2024-11-22 15:57:43,279 - INFO - Saved historical data for 2024-11-22 07:30:00-05:00
+2024-11-22 15:57:43,785 - INFO - Fetching historical data for 2024-11-22 08:00:00-05:00
+2024-11-22 15:57:46,749 - INFO - Saved historical data for 2024-11-22 08:00:00-05:00
+2024-11-22 15:57:47,251 - INFO - Fetching historical data for 2024-11-22 08:30:00-05:00
+2024-11-22 15:57:47,701 - INFO - Saved historical data for 2024-11-22 08:30:00-05:00
+2024-11-22 15:57:48,205 - INFO - Fetching historical data for 2024-11-22 09:00:00-05:00
+2024-11-22 15:57:49,516 - INFO - Saved historical data for 2024-11-22 09:00:00-05:00
+2024-11-22 15:57:50,022 - INFO - Fetching historical data for 2024-11-22 09:30:00-05:00
+2024-11-22 15:57:51,770 - INFO - Saved historical data for 2024-11-22 09:30:00-05:00
+2024-11-22 15:57:52,276 - INFO - Fetching historical data for 2024-11-22 10:00:00-05:00
+2024-11-22 15:57:53,102 - INFO - Saved historical data for 2024-11-22 10:00:00-05:00
+2024-11-22 15:57:53,607 - INFO - Fetching historical data for 2024-11-22 10:30:00-05:00
+2024-11-22 15:57:56,377 - INFO - Saved historical data for 2024-11-22 10:30:00-05:00
+2024-11-22 15:57:56,882 - INFO - Fetching historical data for 2024-11-22 11:00:00-05:00
+2024-11-22 15:57:57,337 - INFO - Saved historical data for 2024-11-22 11:00:00-05:00
+2024-11-22 15:57:57,842 - INFO - Fetching historical data for 2024-11-22 11:30:00-05:00
+2024-11-22 15:58:00,034 - INFO - Saved historical data for 2024-11-22 11:30:00-05:00
+2024-11-22 15:58:00,537 - INFO - Fetching historical data for 2024-11-22 12:00:00-05:00
+2024-11-22 15:58:01,159 - INFO - Saved historical data for 2024-11-22 12:00:00-05:00
+2024-11-22 15:58:01,665 - INFO - Fetching historical data for 2024-11-22 12:30:00-05:00
+2024-11-22 15:58:04,224 - INFO - Saved historical data for 2024-11-22 12:30:00-05:00
+2024-11-22 15:58:04,729 - INFO - Fetching historical data for 2024-11-22 13:00:00-05:00
+2024-11-22 15:58:05,192 - INFO - Saved historical data for 2024-11-22 13:00:00-05:00
+2024-11-22 15:58:05,695 - INFO - Fetching historical data for 2024-11-22 13:30:00-05:00
+2024-11-22 15:58:06,398 - INFO - Saved historical data for 2024-11-22 13:30:00-05:00
+2024-11-22 15:58:06,901 - INFO - Fetching historical data for 2024-11-22 14:00:00-05:00
+2024-11-22 15:58:07,439 - INFO - Saved historical data for 2024-11-22 14:00:00-05:00
+2024-11-22 15:58:07,944 - INFO - Fetching historical data for 2024-11-22 14:30:00-05:00
+2024-11-22 15:58:08,403 - INFO - Saved historical data for 2024-11-22 14:30:00-05:00
+2024-11-22 15:58:08,909 - INFO - Fetching historical data for 2024-11-22 15:00:00-05:00
+2024-11-22 15:58:09,648 - INFO - Saved historical data for 2024-11-22 15:00:00-05:00
+2024-11-22 15:58:10,154 - INFO - Fetching historical data for 2024-11-22 15:30:00-05:00
+2024-11-22 15:58:10,616 - INFO - Saved historical data for 2024-11-22 15:30:00-05:00
+2024-11-22 15:58:11,120 - INFO - Historical data collection completed
+2024-11-22 16:00:03,957 - INFO - Fetching historical data for 2024-11-22 00:00:00-05:00
+2024-11-22 16:00:04,094 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:05,099 - INFO - Fetching historical data for 2024-11-22 00:30:00-05:00
+2024-11-22 16:00:05,158 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:06,164 - INFO - Fetching historical data for 2024-11-22 01:00:00-05:00
+2024-11-22 16:00:06,228 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:07,229 - INFO - Fetching historical data for 2024-11-22 01:30:00-05:00
+2024-11-22 16:00:07,284 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:08,286 - INFO - Fetching historical data for 2024-11-22 02:00:00-05:00
+2024-11-22 16:00:08,343 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:09,346 - INFO - Fetching historical data for 2024-11-22 02:30:00-05:00
+2024-11-22 16:00:09,402 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:10,408 - INFO - Fetching historical data for 2024-11-22 03:00:00-05:00
+2024-11-22 16:00:10,476 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:11,478 - INFO - Fetching historical data for 2024-11-22 03:30:00-05:00
+2024-11-22 16:00:11,549 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:12,552 - INFO - Fetching historical data for 2024-11-22 04:00:00-05:00
+2024-11-22 16:00:12,609 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:13,614 - INFO - Fetching historical data for 2024-11-22 04:30:00-05:00
+2024-11-22 16:00:13,678 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:14,680 - INFO - Fetching historical data for 2024-11-22 05:00:00-05:00
+2024-11-22 16:00:14,744 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:15,750 - INFO - Fetching historical data for 2024-11-22 05:30:00-05:00
+2024-11-22 16:00:15,816 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:16,822 - INFO - Fetching historical data for 2024-11-22 06:00:00-05:00
+2024-11-22 16:00:16,882 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:17,887 - INFO - Fetching historical data for 2024-11-22 06:30:00-05:00
+2024-11-22 16:00:17,958 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:18,963 - INFO - Fetching historical data for 2024-11-22 07:00:00-05:00
+2024-11-22 16:00:19,035 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:20,041 - INFO - Fetching historical data for 2024-11-22 07:30:00-05:00
+2024-11-22 16:00:20,103 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:21,109 - INFO - Fetching historical data for 2024-11-22 08:00:00-05:00
+2024-11-22 16:00:21,175 - ERROR - Error fetching historical price: 0
+2024-11-22 16:00:22,176 - INFO - Fetching historical data for 2024-11-22 08:30:00-05:00
+2024-11-22 16:00:22,237 - ERROR - Error fetching historical price: 0
+2024-11-22 16:01:24,848 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:01:25,013 - ERROR - API Response: {"status":{"timestamp":"2024-11-22T21:01:25.030+00:00","error_code":10005,"error_message":"Invalid value for 'interval'"}}
+2024-11-22 16:01:27,018 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:01:27,177 - ERROR - API Response: {"status":{"timestamp":"2024-11-22T21:01:27.193+00:00","error_code":10005,"error_message":"Invalid value for 'interval'"}}
+2024-11-22 16:01:29,181 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:01:29,337 - ERROR - API Response: {"status":{"timestamp":"2024-11-22T21:01:29.351+00:00","error_code":10005,"error_message":"Invalid value for 'interval'"}}
+2024-11-22 16:01:31,341 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:01:31,491 - ERROR - API Response: {"status":{"timestamp":"2024-11-22T21:01:31.504+00:00","error_code":10005,"error_message":"Invalid value for 'interval'"}}
+2024-11-22 16:01:31,827 - INFO - Data collection stopped by user
+2024-11-22 16:02:31,280 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:02:31,453 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:02:33,458 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:02:33,649 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:02:35,651 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:02:35,836 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:02:37,841 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:02:38,035 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:02:40,037 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:02:40,118 - ERROR - API Response: {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+2024-11-22 16:02:42,121 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:02:42,210 - ERROR - API Response: {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+2024-11-22 16:02:44,214 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:02:44,321 - ERROR - API Response: {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+2024-11-22 16:02:46,327 - INFO - Fetching data for 2024-11-22 03:30:00
+2024-11-22 16:02:46,400 - ERROR - API Response: {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+2024-11-22 16:02:48,406 - INFO - Fetching data for 2024-11-22 04:00:00
+2024-11-22 16:02:48,490 - ERROR - API Response: {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+2024-11-22 16:02:50,496 - INFO - Fetching data for 2024-11-22 04:30:00
+2024-11-22 16:02:50,573 - ERROR - API Response: {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+2024-11-22 16:02:51,185 - INFO - Data collection stopped by user
+2024-11-22 16:04:22,972 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:04:23,084 - ERROR - API Response: {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2024-11-22 16:04:24,090 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:04:24,156 - ERROR - API Response: {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2024-11-22 16:04:25,162 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:04:25,234 - ERROR - API Response: {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2024-11-22 16:04:26,237 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:04:26,300 - ERROR - API Response: {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2024-11-22 16:04:27,303 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:04:27,369 - ERROR - API Response: {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}
+2024-11-22 16:04:27,685 - INFO - Data collection stopped by user
+2024-11-22 16:05:37,906 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:05:38,090 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:05:39,096 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:05:39,182 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:05:40,188 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:05:40,261 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:05:41,266 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:05:41,341 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:05:42,342 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:05:42,414 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:05:43,420 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:05:43,499 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:05:44,505 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:05:44,585 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:05:44,878 - INFO - Data collection stopped by user
+2024-11-22 16:05:56,792 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:05:56,868 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:05:57,870 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:05:57,954 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:05:58,957 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:05:59,066 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:06:00,067 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:06:00,149 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:06:01,155 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:06:01,236 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:06:02,242 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:06:02,318 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:06:03,322 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:06:03,398 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:06:04,403 - INFO - Fetching data for 2024-11-22 03:30:00
+2024-11-22 16:06:04,474 - INFO - Saved data for 2024-11-22 03:30:00
+2024-11-22 16:06:04,657 - INFO - Data collection stopped by user
+2024-11-22 16:07:22,691 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:07:22,833 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:07:23,838 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:07:23,920 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:07:24,925 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:07:25,008 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:07:26,013 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:07:26,102 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:07:27,108 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:07:27,196 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:07:28,202 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:07:28,273 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:07:29,278 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:07:29,378 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:07:30,379 - INFO - Fetching data for 2024-11-22 03:30:00
+2024-11-22 16:07:30,461 - INFO - Saved data for 2024-11-22 03:30:00
+2024-11-22 16:07:31,466 - INFO - Fetching data for 2024-11-22 04:00:00
+2024-11-22 16:07:31,539 - INFO - Saved data for 2024-11-22 04:00:00
+2024-11-22 16:07:32,542 - INFO - Fetching data for 2024-11-22 04:30:00
+2024-11-22 16:07:32,626 - INFO - Saved data for 2024-11-22 04:30:00
+2024-11-22 16:07:33,627 - INFO - Fetching data for 2024-11-22 05:00:00
+2024-11-22 16:07:33,697 - INFO - Saved data for 2024-11-22 05:00:00
+2024-11-22 16:07:34,702 - INFO - Fetching data for 2024-11-22 05:30:00
+2024-11-22 16:07:34,776 - INFO - Saved data for 2024-11-22 05:30:00
+2024-11-22 16:07:35,779 - INFO - Fetching data for 2024-11-22 06:00:00
+2024-11-22 16:07:35,846 - INFO - Saved data for 2024-11-22 06:00:00
+2024-11-22 16:07:36,852 - INFO - Fetching data for 2024-11-22 06:30:00
+2024-11-22 16:07:36,935 - INFO - Saved data for 2024-11-22 06:30:00
+2024-11-22 16:07:37,938 - INFO - Fetching data for 2024-11-22 07:00:00
+2024-11-22 16:07:38,017 - INFO - Saved data for 2024-11-22 07:00:00
+2024-11-22 16:07:39,023 - INFO - Fetching data for 2024-11-22 07:30:00
+2024-11-22 16:07:39,099 - INFO - Saved data for 2024-11-22 07:30:00
+2024-11-22 16:07:40,104 - INFO - Fetching data for 2024-11-22 08:00:00
+2024-11-22 16:07:40,184 - INFO - Saved data for 2024-11-22 08:00:00
+2024-11-22 16:07:41,189 - INFO - Fetching data for 2024-11-22 08:30:00
+2024-11-22 16:07:41,276 - INFO - Saved data for 2024-11-22 08:30:00
+2024-11-22 16:07:42,282 - INFO - Fetching data for 2024-11-22 09:00:00
+2024-11-22 16:07:42,359 - INFO - Saved data for 2024-11-22 09:00:00
+2024-11-22 16:07:43,360 - INFO - Fetching data for 2024-11-22 09:30:00
+2024-11-22 16:07:43,440 - INFO - Saved data for 2024-11-22 09:30:00
+2024-11-22 16:07:44,444 - INFO - Fetching data for 2024-11-22 10:00:00
+2024-11-22 16:07:44,527 - INFO - Saved data for 2024-11-22 10:00:00
+2024-11-22 16:07:45,532 - INFO - Fetching data for 2024-11-22 10:30:00
+2024-11-22 16:07:45,606 - INFO - Saved data for 2024-11-22 10:30:00
+2024-11-22 16:07:46,609 - INFO - Fetching data for 2024-11-22 11:00:00
+2024-11-22 16:07:46,682 - INFO - Saved data for 2024-11-22 11:00:00
+2024-11-22 16:07:47,683 - INFO - Fetching data for 2024-11-22 11:30:00
+2024-11-22 16:07:47,759 - INFO - Saved data for 2024-11-22 11:30:00
+2024-11-22 16:07:48,005 - INFO - Data collection stopped by user
+2024-11-22 16:09:16,942 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:09:17,282 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:09:19,282 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:09:19,501 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:09:21,506 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:09:21,746 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:09:23,747 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:09:23,955 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:09:25,959 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:09:26,190 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:09:28,190 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:09:28,416 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:09:30,422 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:09:30,695 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:09:31,167 - INFO - Data collection stopped by user
+2024-11-22 16:10:38,799 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:10:39,002 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:10:39,002 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:10:39,187 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:10:39,187 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:10:39,378 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:10:39,378 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:10:39,559 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:10:39,559 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:10:39,749 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:10:39,750 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:10:39,972 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:10:39,972 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:10:40,171 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:10:40,171 - INFO - Fetching data for 2024-11-22 03:30:00
+2024-11-22 16:10:40,456 - INFO - Saved data for 2024-11-22 03:30:00
+2024-11-22 16:10:40,456 - INFO - Fetching data for 2024-11-22 04:00:00
+2024-11-22 16:10:40,642 - INFO - Saved data for 2024-11-22 04:00:00
+2024-11-22 16:10:40,643 - INFO - Fetching data for 2024-11-22 04:30:00
+2024-11-22 16:10:40,833 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:40,833 - INFO - Fetching data for 2024-11-22 05:00:00
+2024-11-22 16:10:41,096 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:41,097 - INFO - Fetching data for 2024-11-22 05:30:00
+2024-11-22 16:10:41,297 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:41,298 - INFO - Fetching data for 2024-11-22 06:00:00
+2024-11-22 16:10:41,518 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:41,519 - INFO - Fetching data for 2024-11-22 06:30:00
+2024-11-22 16:10:41,720 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:41,721 - INFO - Fetching data for 2024-11-22 07:00:00
+2024-11-22 16:10:41,909 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:41,910 - INFO - Fetching data for 2024-11-22 07:30:00
+2024-11-22 16:10:42,094 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:42,095 - INFO - Fetching data for 2024-11-22 08:00:00
+2024-11-22 16:10:42,468 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:42,469 - INFO - Fetching data for 2024-11-22 08:30:00
+2024-11-22 16:10:42,670 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:42,671 - INFO - Fetching data for 2024-11-22 09:00:00
+2024-11-22 16:10:42,867 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:42,868 - INFO - Fetching data for 2024-11-22 09:30:00
+2024-11-22 16:10:43,046 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:43,046 - INFO - Fetching data for 2024-11-22 10:00:00
+2024-11-22 16:10:43,233 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:43,234 - INFO - Fetching data for 2024-11-22 10:30:00
+2024-11-22 16:10:43,415 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:43,416 - INFO - Fetching data for 2024-11-22 11:00:00
+2024-11-22 16:10:43,602 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:43,603 - INFO - Fetching data for 2024-11-22 11:30:00
+2024-11-22 16:10:43,802 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:43,803 - INFO - Fetching data for 2024-11-22 12:00:00
+2024-11-22 16:10:44,008 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:44,009 - INFO - Fetching data for 2024-11-22 12:30:00
+2024-11-22 16:10:44,197 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:44,198 - INFO - Fetching data for 2024-11-22 13:00:00
+2024-11-22 16:10:44,388 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:44,389 - INFO - Fetching data for 2024-11-22 13:30:00
+2024-11-22 16:10:44,599 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:44,599 - INFO - Fetching data for 2024-11-22 14:00:00
+2024-11-22 16:10:44,781 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:44,782 - INFO - Fetching data for 2024-11-22 14:30:00
+2024-11-22 16:10:45,045 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:45,045 - INFO - Fetching data for 2024-11-22 15:00:00
+2024-11-22 16:10:45,261 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:45,261 - INFO - Fetching data for 2024-11-22 15:30:00
+2024-11-22 16:10:45,457 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:10:45,458 - INFO - Fetching data for 2024-11-22 16:00:00
+2024-11-22 16:10:45,653 - INFO - Saved data for 2024-11-22 16:00:00
+2024-11-22 16:10:45,653 - INFO - Data collection completed
+2024-11-22 16:10:58,507 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:10:58,607 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:11:00,613 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:11:00,817 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:11:02,818 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:11:03,158 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:11:05,162 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:11:05,365 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:11:07,371 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:11:07,764 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:11:09,769 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:11:09,971 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:11:11,975 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:11:12,279 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:11:14,284 - INFO - Fetching data for 2024-11-22 03:30:00
+2024-11-22 16:11:14,484 - INFO - Saved data for 2024-11-22 03:30:00
+2024-11-22 16:11:16,489 - INFO - Fetching data for 2024-11-22 04:00:00
+2024-11-22 16:11:16,701 - INFO - Saved data for 2024-11-22 04:00:00
+2024-11-22 16:11:18,707 - INFO - Fetching data for 2024-11-22 04:30:00
+2024-11-22 16:11:18,909 - INFO - Saved data for 2024-11-22 04:30:00
+2024-11-22 16:11:20,912 - INFO - Fetching data for 2024-11-22 05:00:00
+2024-11-22 16:11:21,099 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:11:23,104 - INFO - Fetching data for 2024-11-22 05:30:00
+2024-11-22 16:11:23,294 - ERROR - API Response: {"error":["EGeneral:Too many requests"]}
+2024-11-22 16:11:25,296 - INFO - Fetching data for 2024-11-22 06:00:00
+2024-11-22 16:11:25,346 - INFO - Data collection stopped by user
+2024-11-22 16:12:36,339 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:12:36,614 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:12:37,617 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:12:37,875 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:12:38,880 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:12:39,144 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:12:40,145 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:12:40,389 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:12:41,392 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:12:41,653 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:12:42,659 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:12:42,839 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:12:43,845 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:12:44,116 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:12:45,118 - INFO - Fetching data for 2024-11-22 03:30:00
+2024-11-22 16:12:45,377 - INFO - Saved data for 2024-11-22 03:30:00
+2024-11-22 16:12:46,383 - INFO - Fetching data for 2024-11-22 04:00:00
+2024-11-22 16:12:46,638 - INFO - Saved data for 2024-11-22 04:00:00
+2024-11-22 16:12:47,639 - INFO - Fetching data for 2024-11-22 04:30:00
+2024-11-22 16:12:47,893 - INFO - Saved data for 2024-11-22 04:30:00
+2024-11-22 16:12:48,899 - INFO - Fetching data for 2024-11-22 05:00:00
+2024-11-22 16:12:49,161 - INFO - Saved data for 2024-11-22 05:00:00
+2024-11-22 16:12:50,161 - INFO - Fetching data for 2024-11-22 05:30:00
+2024-11-22 16:12:50,403 - INFO - Saved data for 2024-11-22 05:30:00
+2024-11-22 16:12:51,408 - INFO - Fetching data for 2024-11-22 06:00:00
+2024-11-22 16:12:51,655 - INFO - Saved data for 2024-11-22 06:00:00
+2024-11-22 16:12:52,659 - INFO - Fetching data for 2024-11-22 06:30:00
+2024-11-22 16:12:52,919 - INFO - Saved data for 2024-11-22 06:30:00
+2024-11-22 16:12:53,924 - INFO - Fetching data for 2024-11-22 07:00:00
+2024-11-22 16:12:54,187 - INFO - Saved data for 2024-11-22 07:00:00
+2024-11-22 16:12:55,191 - INFO - Fetching data for 2024-11-22 07:30:00
+2024-11-22 16:12:55,444 - INFO - Saved data for 2024-11-22 07:30:00
+2024-11-22 16:12:56,450 - INFO - Fetching data for 2024-11-22 08:00:00
+2024-11-22 16:12:56,816 - INFO - Saved data for 2024-11-22 08:00:00
+2024-11-22 16:12:57,822 - INFO - Fetching data for 2024-11-22 08:30:00
+2024-11-22 16:12:58,083 - INFO - Saved data for 2024-11-22 08:30:00
+2024-11-22 16:12:59,088 - INFO - Fetching data for 2024-11-22 09:00:00
+2024-11-22 16:12:59,356 - INFO - Saved data for 2024-11-22 09:00:00
+2024-11-22 16:13:00,360 - INFO - Fetching data for 2024-11-22 09:30:00
+2024-11-22 16:13:00,646 - INFO - Saved data for 2024-11-22 09:30:00
+2024-11-22 16:13:01,651 - INFO - Fetching data for 2024-11-22 10:00:00
+2024-11-22 16:13:01,922 - INFO - Saved data for 2024-11-22 10:00:00
+2024-11-22 16:13:02,925 - INFO - Fetching data for 2024-11-22 10:30:00
+2024-11-22 16:13:03,239 - INFO - Saved data for 2024-11-22 10:30:00
+2024-11-22 16:13:04,245 - INFO - Fetching data for 2024-11-22 11:00:00
+2024-11-22 16:13:04,510 - INFO - Saved data for 2024-11-22 11:00:00
+2024-11-22 16:13:05,511 - INFO - Fetching data for 2024-11-22 11:30:00
+2024-11-22 16:13:05,768 - INFO - Saved data for 2024-11-22 11:30:00
+2024-11-22 16:13:06,772 - INFO - Fetching data for 2024-11-22 12:00:00
+2024-11-22 16:13:07,038 - INFO - Saved data for 2024-11-22 12:00:00
+2024-11-22 16:13:08,044 - INFO - Fetching data for 2024-11-22 12:30:00
+2024-11-22 16:13:08,334 - INFO - Saved data for 2024-11-22 12:30:00
+2024-11-22 16:13:09,334 - INFO - Fetching data for 2024-11-22 13:00:00
+2024-11-22 16:13:09,588 - INFO - Saved data for 2024-11-22 13:00:00
+2024-11-22 16:13:10,592 - INFO - Fetching data for 2024-11-22 13:30:00
+2024-11-22 16:13:10,865 - INFO - Saved data for 2024-11-22 13:30:00
+2024-11-22 16:13:11,867 - INFO - Fetching data for 2024-11-22 14:00:00
+2024-11-22 16:13:12,138 - INFO - Saved data for 2024-11-22 14:00:00
+2024-11-22 16:13:13,143 - INFO - Fetching data for 2024-11-22 14:30:00
+2024-11-22 16:13:13,395 - INFO - Saved data for 2024-11-22 14:30:00
+2024-11-22 16:13:14,400 - INFO - Fetching data for 2024-11-22 15:00:00
+2024-11-22 16:13:14,673 - INFO - Saved data for 2024-11-22 15:00:00
+2024-11-22 16:13:15,678 - INFO - Fetching data for 2024-11-22 15:30:00
+2024-11-22 16:13:15,938 - INFO - Saved data for 2024-11-22 15:30:00
+2024-11-22 16:13:16,939 - INFO - Fetching data for 2024-11-22 16:00:00
+2024-11-22 16:13:17,219 - INFO - Saved data for 2024-11-22 16:00:00
+2024-11-22 16:13:18,225 - INFO - Data collection completed
+2024-11-22 16:30:12,848 - INFO - Fetching data for 2024-11-22 00:00:00
+2024-11-22 16:30:13,124 - INFO - Saved data for 2024-11-22 00:00:00
+2024-11-22 16:30:14,129 - INFO - Fetching data for 2024-11-22 00:30:00
+2024-11-22 16:30:14,388 - INFO - Saved data for 2024-11-22 00:30:00
+2024-11-22 16:30:15,390 - INFO - Fetching data for 2024-11-22 01:00:00
+2024-11-22 16:30:15,645 - INFO - Saved data for 2024-11-22 01:00:00
+2024-11-22 16:30:16,646 - INFO - Fetching data for 2024-11-22 01:30:00
+2024-11-22 16:30:16,894 - INFO - Saved data for 2024-11-22 01:30:00
+2024-11-22 16:30:17,899 - INFO - Fetching data for 2024-11-22 02:00:00
+2024-11-22 16:30:18,164 - INFO - Saved data for 2024-11-22 02:00:00
+2024-11-22 16:30:19,167 - INFO - Fetching data for 2024-11-22 02:30:00
+2024-11-22 16:30:19,422 - INFO - Saved data for 2024-11-22 02:30:00
+2024-11-22 16:30:20,427 - INFO - Fetching data for 2024-11-22 03:00:00
+2024-11-22 16:30:20,748 - INFO - Saved data for 2024-11-22 03:00:00
+2024-11-22 16:30:21,753 - INFO - Fetching data for 2024-11-22 03:30:00
+2024-11-22 16:30:22,007 - INFO - Saved data for 2024-11-22 03:30:00
+2024-11-22 16:30:23,013 - INFO - Fetching data for 2024-11-22 04:00:00
+2024-11-22 16:30:23,275 - INFO - Saved data for 2024-11-22 04:00:00
+2024-11-22 16:30:24,275 - INFO - Fetching data for 2024-11-22 04:30:00
+2024-11-22 16:30:24,532 - INFO - Saved data for 2024-11-22 04:30:00
+2024-11-22 16:30:24,790 - INFO - Data collection stopped by user

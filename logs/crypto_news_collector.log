@@ -1,0 +1,4 @@
+2024-11-25 01:18:56,105 - INFO - Starting Crypto News collection
+2024-11-25 01:20:29,412 - INFO - Added 9 new articles to /Users/abylai/PycharmProjects/btc_pred/full_rep/data/news/crypto_news_2024-11-25.csv
+2024-11-25 01:20:29,417 - INFO - Daily summary created: /Users/abylai/PycharmProjects/btc_pred/full_rep/data/news/summary_2024-11-25.txt
+2024-11-25 01:21:00,929 - INFO - News collection stopped by user
