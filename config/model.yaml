@@ -1,0 +1,12 @@
+hf_model: "cardiffnlp/twitter-roberta-base-sentiment-latest"
+weights:
+  vader: 0.35
+  textblob: 0.15
+  transformer: 0.35
+  lexicon: 0.15
+thresholds:
+  sentiment: 0.03
+  momentum: 0.02
+prediction:
+  lookback_minutes: 60
+  min_articles: 3

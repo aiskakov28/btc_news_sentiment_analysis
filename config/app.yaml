@@ -1,0 +1,6 @@
+title: "BTC News Sentiment Analysis"
+subtitle: "Signals from headlines to tradable features — Streamlit UI"
+paths:
+  data_root: "data"
+theme:
+  base: "light"

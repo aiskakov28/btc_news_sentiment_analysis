@@ -1,0 +1,17 @@
+interval_minutes: 5
+retention_days: 30
+sources:
+  coindesk: "https://www.coindesk.com/arc/outboundfeeds/rss/"
+  cointelegraph: "https://cointelegraph.com/rss"
+  cryptonews: "https://cryptonews.com/news/feed"
+  decrypt: "https://decrypt.co/feed"
+  beincrypto: "https://beincrypto.com/feed/"
+  bitcoinist: "https://bitcoinist.com/feed/"
+  cryptoslate: "https://cryptoslate.com/feed/"
+  newsbtc: "https://www.newsbtc.com/feed/"
+  ambcrypto: "https://ambcrypto.com/feed/"
+  cryptopotato: "https://cryptopotato.com/feed/"
+  theblock: "https://www.theblock.co/rss.xml"
+  cryptobriefing: "https://cryptobriefing.com/feed/"
+  dailyhodl: "https://dailyhodl.com/feed/"
+  bitcoincom: "https://news.bitcoin.com/feed/"
